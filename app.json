@@ -1,5 +1,8 @@
 {
   "expo": {
+    "assetBundlePatterns": 
+      "assets/*",
+    
     "name": "AngaraEcommerce",
     "slug": "AngaraEcommerce",
     "version": "1.0.0",
